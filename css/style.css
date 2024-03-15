@@ -1,0 +1,22 @@
+
+h1{
+
+    font-size: 200px;
+    color:#ffffff;
+
+}
+
+
+.carousel-caption h5 {
+
+    font-size: 100px;
+    color:#ffffff;
+    text-shadow : 2px 2px 2px rgb(173, 12, 12);
+}
+
+.carousel-caption h2 {
+
+    
+    color:#ffffff;
+    text-shadow : 2px 2px 2px rgb(173, 12, 12);
+}
