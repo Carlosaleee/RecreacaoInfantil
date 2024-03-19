@@ -1,5 +1,5 @@
 <h2>Nome : Carlos Alexandre da Silva</h2>
-<h3>Curso : Técnico em Desenvolvimento de Sistemas</h3>
+<h3>Curso : Desenvolvimento de Sistemas</h3>
 <h3>Unidade Curricular 13 </h3>
 <h3>	Atividade 1</h3>
 
